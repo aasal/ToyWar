@@ -20,10 +20,10 @@ public class PlayerKeyboardMovements : MonoBehaviour {
         /*transform.Translate(moveSpeed * Input.GetAxis("Horizontal") * Time.deltaTime, 0f, moveSpeed * Input.GetAxis("Vertical") * Time.deltaTime);
         moveSpeed = 2;*/
 
-        if (Input.GetKeyDown(""))
-        {
+        //if (Input.GetButtonDown(""))
+        //{
 
-        }
+        //}
     }
 
 
