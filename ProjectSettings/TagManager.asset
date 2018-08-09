@@ -9,6 +9,7 @@ TagManager:
   - Cat
   - Bunny
   - Bear
+  - Duck
   layers:
   - Default
   - TransparentFX

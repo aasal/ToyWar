@@ -78,7 +78,7 @@ public class AllyAI : MonoBehaviour
                 }
             }
              
-            else if ((targetDistance <= miniDistance) && (targetDistance >= 1))
+            else if ((targetDistance <= miniDistance) && (targetDistance >= 1.5))
             {
 
 
